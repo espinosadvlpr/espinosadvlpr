@@ -2,9 +2,7 @@
 
 # Hi there 👋 I am David Espinosa
 
-I am a **FullStack Developer**
-
-I am currently working on my coding and database skills, building personal projects and getting certified in differentes technologies and skills.
+I am a **FullStack Developer** currently working on my coding and database skills, building personal projects and getting certified in differentes technologies and skills.
 
 ## About me:
 
