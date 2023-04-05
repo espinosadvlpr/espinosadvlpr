@@ -2,7 +2,7 @@
 
 # Hi there 👋 I am David Espinosa
 
-I am a **Software Developer**
+I am a **FullStack Developer**
 
 I am currently working on my coding and database skills, building personal projects and getting certified in differentes technologies and skills.
 
@@ -10,11 +10,11 @@ I am currently working on my coding and database skills, building personal proje
 
 🌍  I'm based in **Colombia**
 
-🧠  I'm improving my knowledge in **Backend and API development**.
+⚡  I'm a **Computer Science and Systems Engineer**
+
+🧠  I'm improving my knowledge in **Backend and API development**
 
 ✉️  You can contact me at **espinosadavid47@gmail.com**
-
-⚡  Yes, i'm still trying to get my college degree.
 
 
 ## Skills:
@@ -22,17 +22,20 @@ I am currently working on my coding and database skills, building personal proje
 <p align="center">
 
 <b>Web development:</b> <br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ANGULARJS](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<b>Backend & Desktop development:</b> <br>
+<b>Backend & API development:</b> <br>
+![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SPRING BOOT](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  
+<b>Desktop development:</b> <br>
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 <b>Database knowledge: </b> <br>
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
